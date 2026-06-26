@@ -40,8 +40,8 @@
 
 # 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-link
-
+🔗 LinkedIn : 
+https://www.linkedin.com/in/bushra-ashraf-433100417?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ---
 
 ⭐ **Thank you for visiting my GitHub repository!**
