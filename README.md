@@ -1,2 +1,2 @@
 # Hi, I am Bushra Ashraf
-![BA Logo](BA_logo.png)
+![BA Logo](BA_logo.png) 
